@@ -1,0 +1,5 @@
+tunnels:
+  vite:
+    proto: http
+    addr: 5173
+    domain: myviteapp.ngrok-free.app
